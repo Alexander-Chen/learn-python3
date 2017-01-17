@@ -1,2 +1,2 @@
 # learn-python3
-python code at http://www.liaoxuefeng.com/
+python code at https://achan.xyz/
